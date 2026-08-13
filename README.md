@@ -2,7 +2,7 @@ Intermediate Python Projects
 Welcome to my Intermediate Python Projects repository.
 This section contains Python projects I built to improve my programming skills and practice real-world problem-solving.
 
-##Projects
+## Projects
 
 ### 1.Contact Book
 A simple contact management system for adding, viewing, searching, and deleting contacts.
@@ -52,7 +52,7 @@ python main.py
 ```
 Each project contains its own README.md with additional information.
 
- Goal
+ ## Goal
 
 The goal of these projects is to strengthen my Python programming skills by building practical command-line applications and gradually moving toward more advanced projects.
 
@@ -65,9 +65,8 @@ The goal of these projects is to strengthen my Python programming skills by buil
  API Projects — Next
 
 
- Author
-
+## Author
 Shahzoda
 
-Python Learner | Building Python Projects 🚀
+
 
