@@ -1,4 +1,4 @@
-Intermediate Python Projects
+## Intermediate Python Projects
 Welcome to my Intermediate Python Projects repository.
 This section contains Python projects I built to improve my programming skills and practice real-world problem-solving.
 
